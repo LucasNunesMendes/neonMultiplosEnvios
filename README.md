@@ -10,6 +10,8 @@ Realizar várias transações na rede neon.
 Como usar? 
 
 Ir até a pasta do arquivo e executar o arquivo .bat;
+instalar.bat ( Só é necessário fazer isso uma vez )
+executar.bat ( Executa o programa )
 
 Preenchimento:
 
