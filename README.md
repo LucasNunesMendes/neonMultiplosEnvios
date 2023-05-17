@@ -25,4 +25,4 @@ Disclaimer:
 
 Utilizem sempre wallets burn. 
 
-Não me responsabilizo por nenhum tipo de uso individuo dessa ferramenta. Sendo esta feita com total finalizade de estudos sobre a nova rede gaming.
+Não me responsabilizo por nenhum tipo de uso indevido dessa ferramenta. Sendo esta feita com total finalidade de estudos sobre a nova rede gaming.
